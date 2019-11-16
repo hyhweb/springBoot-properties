@@ -1,0 +1,14 @@
+person:
+  name: 美国
+  age: 22
+  sex: girl
+book:
+  name: book
+  author: 22
+  date: girl
+
+books:
+  type:
+    - name: book111
+      author: hong
+      date: 2020-09-02
